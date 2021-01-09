@@ -21,6 +21,9 @@ class Queue:
         self.last = None
         self.count = 0
 
+    def __len__(self) -> int:
+        return self.count
+
     def __iter__(self):
         self.n = 0
         return self
