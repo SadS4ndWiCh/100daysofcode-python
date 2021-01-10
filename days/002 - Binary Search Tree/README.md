@@ -1,6 +1,13 @@
 # Binary Search Tree ( Árvore Binária de Busca )
 
-![Binary Search Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/200px-Binary_search_tree.svg.png)
+
+<a title="No machine-readable author provided. Dcoetzee assumed (based on copyright claims)., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Binary_search_tree.svg">
+<img
+    width="256"
+    alt="Binary search tree"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/256px-Binary_search_tree.svg.png"
+    style="background-color: white;">
+</a>
 
 ## Definição na [Wikipédia](https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria_de_busca)
 Em Ciência da computação, uma **árvore binária de busca** (ou árvore binária de pesquisa) é uma estrutura de dados de árvore binária **baseada em nós**, onde todos os **nós da sub-árvore esquerda possuem um valor numérico inferior ao nó raiz** e todos os **nós da sub-árvore direita possuem um valor superior ao nó raiz** (esta é a forma padrão, podendo as subárvores serem invertidas, dependendo da aplicação).

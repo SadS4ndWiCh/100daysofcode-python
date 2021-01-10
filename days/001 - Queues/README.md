@@ -1,6 +1,12 @@
 # Queue First In First Out
 
-![Queue](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/300px-Data_Queue.svg.png)
+<a title="Grain, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Fifo_queue.svg">
+<img
+    width="256"
+    alt="Fifo queue"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fifo_queue.svg/256px-Fifo_queue.svg.png"
+    style="background-color: white;">
+</a>
 
 ## Definição na [Wikipédia](https://pt.wikipedia.org/wiki/FIFO)
 Ciência da Computação, algoritmo de fila simples, FIFO (do inglês: first in, first out , "primeiro a entrar, primeiro a sair", "PEPS") ou FCFS (do inglês: first come, first served , "primeiro a chegar, primeiro a ser servido") é um algoritmo de escalonamento para estruturas de dados do tipo fila. Apresenta o seguinte critério: o primeiro elemento a ser retirado é o primeiro que tiver sido inserido, é um algoritmo de escalonamento não preemptivo que entrega a CPU os processos pela ordem de chegada. Ele executa o processo como um todo do inicio ao fim não interrompendo o processo executado até ser finalizado, então quando um novo processo chega e existe um ainda em execução ele vai para uma fila de espera. Esta fila de espera nada mais é do que uma fila que organiza os processos que chegam até eles serem atendidos pela CPU.
