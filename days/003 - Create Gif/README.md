@@ -9,7 +9,8 @@ python /path/to/script.py '/path/to/images'
 ```
 
 Para funcionar, as imagens precisam estar nomeadas de maneira específica para poder determinar a ordem no gif.  
-Ex: **\<frame>\<extensão> (1.png, 2.png, 3.png, 4.png)**  
+Ex: **\<frame>\<extensão> (1.png, 2.png, 3.jpg, 4.jpg)**  
+ - *Válido apenas as extensões: .png e .jpg*
 ```
 images
 ├── 1.png
