@@ -10,3 +10,4 @@ Durante 100 dias, irei buscar aprender sobre diversos assuntos em Python que aca
  - [Dia 4](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/004%20-%20Linked%20List) **Linked List**
  - [Dia 5](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/005%20-%20None) **None**
  - [Dia 6](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/006%20-%20Insertion%20Sort) **Insertion Sort**
+ - [Dia 7](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/007%20-%20Queue%20Stacks) **Stacks**
