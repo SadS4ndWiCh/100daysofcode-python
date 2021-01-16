@@ -1,6 +1,8 @@
 # 100daysofcode-python
 
-Durante 100 dias, irei buscar aprender sobre diversos assuntos em Python que acabei por evitar ou temas novos que me interessou.
+Durante 100 dias, irei buscar aprender sobre diversos assuntos em Python que acabei por evitar ou temas novos que me interessou.  
+
+Acredito também que, nesses 100 dias tentarei melhorar mais eu mesmo como pessoa, tentando diminuir a vergonha de fazer publicações e também fazer explicações sobre algo - *o que tenho bem dificuldade por acabar me enrolando* -, que sendo assim, mesmo que seja algo que diria ser mais simples, tentarei fazer a melhor explicação que eu conseguir. 🚀
 
 ## Dias
 
@@ -11,3 +13,4 @@ Durante 100 dias, irei buscar aprender sobre diversos assuntos em Python que aca
  - [Dia 5](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/005%20-%20None) **None**
  - [Dia 6](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/006%20-%20Insertion%20Sort) **Insertion Sort**
  - [Dia 7](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/007%20-%20Queue%20Stacks) **Stacks**
+ - [Dia 8](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/008%20-%20Multiples%20of%203%20and%205) **Multiples of 3 and 5 (Project Euler)**
