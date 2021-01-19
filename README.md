@@ -13,4 +13,5 @@ Acredito também que, nesses 100 dias tentarei melhorar mais eu mesmo como pesso
  - [Dia 5](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/005%20-%20None) **None**
  - [Dia 6](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/006%20-%20Insertion%20Sort) **Insertion Sort**
  - [Dia 7](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/007%20-%20Queue%20Stacks) **Stacks**
- - [Dia 8](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/008%20-%20Multiples%20of%203%20and%205) **Multiples of 3 and 5 (Project Euler)**
+ - [Dia 8](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/008%20-%20Multiples%20of%203%20and%205) **Multiples of 3 and 5(Project Euler)**
+ - [Dia 9, 10, 11](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/009%20-%20010%20-%20011%20-%20None) **None**
