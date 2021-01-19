@@ -1,8 +1,11 @@
-# 100daysofcode-python
+# 100daysofcode-python ( Encerrado )
 
-Durante 100 dias, irei buscar aprender sobre diversos assuntos em Python que acabei por evitar ou temas novos que me interessou.  
+Por alguns motivos decidi parar com esses 100 dias de Python, sendo um deles, querer dar mais atenção em HTML, CSS, JS, React, Next.js e mais coisa de Front.
 
-Acredito também que, nesses 100 dias tentarei melhorar mais eu mesmo como pessoa, tentando diminuir a vergonha de fazer publicações e também fazer explicações sobre algo - *o que tenho bem dificuldade por acabar me enrolando* -, que sendo assim, mesmo que seja algo que diria ser mais simples, tentarei fazer a melhor explicação que eu conseguir. 🚀
+---
+~~Durante 100 dias, irei buscar aprender sobre diversos assuntos em Python que acabei por evitar ou temas novos que me interessou.~~
+
+~~Acredito também que, nesses 100 dias tentarei melhorar mais eu mesmo como pessoa, tentando diminuir a vergonha de fazer publicações e também fazer explicações sobre algo - *o que tenho bem dificuldade por acabar me enrolando* -, que sendo assim, mesmo que seja algo que diria ser mais simples, tentarei fazer a melhor explicação que eu conseguir. 🚀~~
 
 ## Dias
 
@@ -15,3 +18,4 @@ Acredito também que, nesses 100 dias tentarei melhorar mais eu mesmo como pesso
  - [Dia 7](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/007%20-%20Queue%20Stacks) **Stacks**
  - [Dia 8](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/008%20-%20Multiples%20of%203%20and%205) **Multiples of 3 and 5(Project Euler)**
  - [Dia 9, 10, 11](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/009%20-%20010%20-%20011%20-%20None) **None**
+ - [Dia 12](https://github.com/SadS4ndWiCh/100daysofcode-python/tree/main/days/012%20-%20Finish) **Finish**
